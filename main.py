@@ -5,7 +5,7 @@ from pathlib import Path
 
 SUMMARY = """World news, Wednesday 11 November 2026.
 
-Abu Dhabi: Russia and Ukraine agreed at US-mediated trilateral talks — the first since February — to a large-scale prisoner exchange, but no peace breakthrough (Al Jazeera); Zelenskyy called it 'constructive' (CNN).
+Abu Dhabi: Russia and Ukraine agreed at US-mediated trilateral talks \u2014 the first since February \u2014 to a large-scale prisoner exchange, but no peace breakthrough (Al Jazeera); Zelenskyy called it 'constructive' (CNN).
 
 Nvidia: shares fell as CEO Jensen Huang admitted an affair with a woman who may have been a Chinese spy; the FBI is examining it, Nvidia hired a former US attorney, shareholders sued (CBS, BBC). US stocks fell on hotter inflation and rate fears (Reuters).
 
@@ -19,7 +19,7 @@ COP31 in Antalya: Marshall Islands president Hilda Heine warned 'the world we kn
 
 Health: Congo's Ebola outbreak hit 11,042 cases and 5,387 deaths, its deadliest on record (NPR). Gaza's toll reached 74,653 (Palestinian sources, Al Jazeera).
 
-Politics: Democrat Scott Colom beat Cindy Hyde-Smith for Mississippi's Senate seat — its first Black senator since Reconstruction (CBC). Russia's US ambassador Darchiev died at 66 (Euronews). The White House opposed impeaching Defense Secretary Hegseth (Xinhua).
+Politics: Democrat Scott Colom beat Cindy Hyde-Smith for Mississippi's Senate seat \u2014 its first Black senator since Reconstruction (CBC). Russia's US ambassador Darchiev died at 66 (Euronews). The White House opposed impeaching Defense Secretary Hegseth (Xinhua).
 
 Space: SpaceX launched a classified Space Force mission from Vandenberg, its second in six days (Spaceflight Now)."""
 
