@@ -9,7 +9,7 @@ Abu Dhabi: Russia and Ukraine agreed at US-mediated trilateral talks — the fir
 
 Nvidia: shares fell as CEO Jensen Huang admitted an affair with a woman who may have been a Chinese spy; the FBI is examining it, Nvidia hired a former US attorney, shareholders sued (CBS, BBC). US stocks fell on hotter inflation and rate fears (Reuters).
 
-Iran: Secretary Rubio said there is 'no need' for major military action,, a day after Trump called the war 'effectively over' (Arab News). Three Iranian-linked men were charged over a plot on RAF Fairford, Britain (Japan Times). Iran listed Argentina's navy and air force as terrorist groups (Al Jazeera).
+Iran: Secretary Rubio said there is 'no need' for major military action, a day after Trump called the war 'effectively over' (Arab News). Three Iranian-linked men were charged over a plot on RAF Fairford, Britain (Japan Times). Iran listed Argentina's navy and air force as terrorist groups (Al Jazeera).
 
 Europe: Spain's first general strike in 14 years over housing brought millions out, Barcelona night clashes (Reuters). Pile-ups on Bulgaria's Trakia motorway near Yambol killed 11, injured 50 (Health Ministry). Over 6,000 schools in Italy plus hundreds in Britain and Ireland got hoax bomb threats (BBC). Japan's Supreme Court found the 2025 Upper House vote gap of up to 3.13x 'unconstitutional' but kept results (Kyodo); NTT Docomo restored service after a nationwide 5G outage (Jiji).
 
